@@ -1,3 +1,3 @@
 # Knowledge-point
 记录一些知识点
-- [*args, **kwargs](Knowledge-point/points/argskwargs.md)
+- [*args, **kwargs](http://Knowledge-point/points/argskwargs.md)
