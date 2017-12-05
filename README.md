@@ -7,3 +7,5 @@
 - [Python垃圾回收机制](points/垃圾回收机制.md)
 - [Python的多线程与多进程](points/多线程与多进程.md)
 - [os模块与sys模块](points/os模块与sys模块.md)
+## jQuery小案例
+- [图片文件上传与即时显示](jQuery/图片文件上传与即时显示)
