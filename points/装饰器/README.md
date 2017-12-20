@@ -21,3 +21,8 @@ def func(arg1, arg2, ...):
 func = deco2(deco1(func))
 
 ```
+类方法和实例方法
+`@classmethod, @staticmethod`
+1. 在Python中，方法分为三类实例方法、类方法、静态方法；
+2. 逻辑上讲：类方法是只能由类名调用；静态方法可以由类名或对象名进行调用；
+3. Python的实例可以调用实例方法、类方法、静态方法。
