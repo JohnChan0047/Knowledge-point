@@ -12,8 +12,10 @@
 - [Python自省](points/自省.md)
 - [Python中单下划线和双下划线](points/Python中单下划线和双下划线.md)
 - [生成器和迭代器](points/生成器和迭代器.md)
-- [__new__和__init__的区别](points/__new__和__init__的区别.md)
+- [`__new__`和`__init__`的区别](points/__new__和__init__的区别.md)
 - [单例模式](points/单例模式.md)
+- [闭包](points/闭包.md)
+- [赋值与拷贝](points/赋值与拷贝.md)
 
 ## jQuery小案例
 - [图片文件上传与即时显示](jQuery/图片文件上传与即时显示)
